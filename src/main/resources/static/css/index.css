@@ -1,0 +1,24 @@
+
+body{
+	font-family: serif;
+}
+#flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+#flex-box-1{
+	
+	
+}
+#flex-box-2{
+
+	
+}
+#id{
+	/* visibility: hidden; */
+	display: none;
+}
+li,a{
+	cursor: pointer !important;
+}
